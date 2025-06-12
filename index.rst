@@ -10,7 +10,7 @@ Visit `lowes.syf.com/activate <https://lowes.syf.com/activate>`_ to activate you
 
 .. image:: Button.png
    :alt: Lowes.syf.com/activate
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly9sb3dlc2hlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 .. raw:: html
 
@@ -58,20 +58,20 @@ Use these apps for easy card management:
 4. Key Features of Lowe’s Credit Card
 --------------------------------------
 
-💳 **5% Off** on eligible purchases every day  
-💳 **Special Financing** options for 6–18 months on big projects  
-💳 **No Annual Fee**  
-💳 **Online Account Access** anytime  
-💳 **Alerts & Security** through mobile apps
+* **5% Off** on eligible purchases every day  
+* **Special Financing** options for 6–18 months on big projects  
+* **No Annual Fee**  
+* **Online Account Access** anytime  
+* **Alerts & Security** through mobile apps
 
 5. Advantages of Using Lowe’s Credit Card
 ------------------------------------------
 
-✅ Save money with daily discounts  
-✅ Flexible financing for large purchases  
-✅ Track spending online  
-✅ Easy mobile access  
-✅ Safe and secure activation process
+* ✅ Save money with daily discounts  
+* ✅ Flexible financing for large purchases  
+* ✅ Track spending online  
+* ✅ Easy mobile access  
+* ✅ Safe and secure activation process
 
 My Experience
 =============
