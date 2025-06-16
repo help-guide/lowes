@@ -30,10 +30,10 @@ To activate your card, visit the official activation page:
 2. Steps to Activate Your Lowe’s Card
 --------------------------------------
 
-✅ **Step 1: Visit lowes.syf.com/activate**  
+*  **Step 1: Visit lowes.syf.com/activate**  
 Go to `lowes.syf.com/activate <https://lowes.syf.com/activate>`_ from your phone or computer.
 
-✅ **Step 2: Enter Your Card Information**  
+*  **Step 2: Enter Your Card Information**  
 Provide the following details:
 
 - 16-digit card number  
@@ -41,10 +41,10 @@ Provide the following details:
 - Last 4 digits of your SSN  
 - Billing ZIP code
 
-✅ **Step 3: Confirm and Submit**  
+*  **Step 3: Confirm and Submit**  
 Double-check your information and click **"Activate"**.
 
-✅ **Step 4: You're Done!**  
+*  **Step 4: You're Done!**  
 Your card is now ready to use in-store or online at Lowe’s.
 
 3. How to Manage Your Card After Activation
@@ -67,11 +67,11 @@ Use these apps for easy card management:
 5. Advantages of Using Lowe’s Credit Card
 ------------------------------------------
 
-* ✅ Save money with daily discounts  
-* ✅ Flexible financing for large purchases  
-* ✅ Track spending online  
-* ✅ Easy mobile access  
-* ✅ Safe and secure activation process
+*  Save money with daily discounts  
+*  Flexible financing for large purchases  
+*  Track spending online  
+*  Easy mobile access  
+*  Safe and secure activation process
 
 My Experience
 =============
