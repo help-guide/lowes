@@ -10,7 +10,7 @@ Visit `lowes.syf.com/activate <https://lowes.syf.com/activate>`_ to activate you
 
 .. image:: Button.png
    :alt: Lowes.syf.com/activate
-   :target: https://fm.ci/?aHR0cHM6Ly9sb3dlc2hlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://lowessyfcom-activate.github.io/
 
 .. raw:: html
 
