@@ -1,5 +1,5 @@
 ===============================
-lowes.syf.com/activate
+How to Activate Your Lowe’s Credit Card ?
 ===============================
 
 Visit `lowes.syf.com/activate <https://lowes.syf.com/activate>`_ to activate your Lowe’s Credit Card in minutes! Follow our step-by-step guide to enter your details, verify your account, and start using your card benefits for home improvement projects.
